@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:132,so_long_vid.mov
+#EXTVLCOPT:sub-file=/Users/kmordaun/Desktop/subtitles.srt
+#EXTVLCOPT:subsdec-encoding=
+#EXTVLCOPT:subsdec-align=0
+#EXTVLCOPT:freetype-rel-fontsize=0
+#EXTVLCOPT:input-slave=/Users/kmordaun/Desktop/so_long/sound/stabwound8bitwav.wav
+file:///Users/kmordaun/Desktop/so_long_vid.mov
